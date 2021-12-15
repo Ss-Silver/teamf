@@ -1,0 +1,28 @@
+div#wrap {
+    width: 500px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;
+    flex-direction: row;
+    align-content: stretch;
+    padding-top: 100px;
+}
+
+.btn-long {
+    width: 227px;
+}
+
+.th {
+    width : 100px;
+}
+
+.tel {
+    width: 63px;
+}
+
+.id_ok{color:lightgreen; display: none;}
+.id_already{color:indianred; display: none;}
+
+.pw_ok{color:lightgreen; display: none;}
+.pw_no{color:indianred; display: none;}
